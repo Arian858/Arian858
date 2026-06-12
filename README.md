@@ -2,7 +2,7 @@
 - 📊 I'm currently honing my skills in Data Analysis, Data Engineering , B.I , Machine Learning, Deep Learning and Data Visualization.
 - 💻 I love working on Real-World projects that make a positive impact and help me learn something new every day.
 
-* **LinkedIn:** [Arian Ashtari Larki] : 
+![Kaggle Rank](https://www.kaggle.com/static/images/tiers/expert@48.png)
 [![LinkedIn Profile](www.linkedin.com/in/arian-ashtari-larki-78644425a)
 
 ## Skills
@@ -25,6 +25,7 @@ I'm constantly learning and expanding my knowledge in Business Intelligence . He
 
 ## Contact Me
 
-I'm always open to collaborations and learning from others in the data science community. You can reach out to me via email at @heydariansaeede0@gmail.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/saeedeh-heydarian-02a593240/).
+I'm always open to collaborations and learning from others in the data science community. You can reach out to me via email at @arian.ashtari.larki@gmail.com or connect with me on LinkedIn [here](www.linkedin.com/in/arian-ashtari-larki-78644425a)
+.
 
 Let's learn and grow together!
